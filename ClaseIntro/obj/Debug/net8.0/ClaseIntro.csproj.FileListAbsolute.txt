@@ -1,0 +1,14 @@
+C:\Users\ronyj\source\repos\ClaseIntro\bin\Debug\net8.0\ClaseIntro.exe
+C:\Users\ronyj\source\repos\ClaseIntro\bin\Debug\net8.0\ClaseIntro.deps.json
+C:\Users\ronyj\source\repos\ClaseIntro\bin\Debug\net8.0\ClaseIntro.runtimeconfig.json
+C:\Users\ronyj\source\repos\ClaseIntro\bin\Debug\net8.0\ClaseIntro.dll
+C:\Users\ronyj\source\repos\ClaseIntro\bin\Debug\net8.0\ClaseIntro.pdb
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.dll
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\refint\ClaseIntro.dll
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.pdb
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ClaseIntro.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\ClaseIntro\obj\Debug\net8.0\ref\ClaseIntro.dll
