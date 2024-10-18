@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronyj\\source\\repos\\Ejercicios_clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E256F57-BB19-4497-A60D-AEE09860C887}|Ejercicios_clases.csproj|c:\\users\\ronyj\\source\\repos\\ejercicios_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E256F57-BB19-4497-A60D-AEE09860C887}|Ejercicios_clases.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E256F57-BB19-4497-A60D-AEE09860C887}|Ejercicios_clases.csproj|c:\\users\\ronyj\\source\\repos\\ejercicios_clases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E256F57-BB19-4497-A60D-AEE09860C887}|Ejercicios_clases.csproj|solutionrelative:moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\ronyj\\source\\repos\\Ejercicios_clases\\Moto.cs",
+              "RelativeDocumentMoniker": "Moto.cs",
+              "ToolTip": "C:\\Users\\ronyj\\source\\repos\\Ejercicios_clases\\Moto.cs",
+              "RelativeToolTip": "Moto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:42:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronyj\\source\\repos\\Ejercicios_clases\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ronyj\\source\\repos\\Ejercicios_clases\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:41:44.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
