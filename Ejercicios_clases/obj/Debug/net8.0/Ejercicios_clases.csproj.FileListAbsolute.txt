@@ -13,3 +13,11 @@ C:\Users\ronyj\source\repos\Ejercicios_clases\obj\Debug\net8.0\refint\Ejercicios
 C:\Users\ronyj\source\repos\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.pdb
 C:\Users\ronyj\source\repos\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.genruntimeconfig.cache
 C:\Users\ronyj\source\repos\Ejercicios_clases\obj\Debug\net8.0\ref\Ejercicios_clases.dll
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.AssemblyInfoInputs.cache
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.AssemblyInfo.cs
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.sourcelink.json
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.dll
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\refint\Ejercicios_clases.dll
+C:\Users\ronyj\Desktop\Ejercicios Progra\progra_1\Ejercicios_clases\obj\Debug\net8.0\Ejercicios_clases.pdb
