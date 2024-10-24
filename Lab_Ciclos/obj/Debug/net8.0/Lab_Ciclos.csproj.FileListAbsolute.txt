@@ -1,0 +1,14 @@
+C:\Users\ronyj\source\repos\Lab_Ciclos\bin\Debug\net8.0\Lab_Ciclos.exe
+C:\Users\ronyj\source\repos\Lab_Ciclos\bin\Debug\net8.0\Lab_Ciclos.deps.json
+C:\Users\ronyj\source\repos\Lab_Ciclos\bin\Debug\net8.0\Lab_Ciclos.runtimeconfig.json
+C:\Users\ronyj\source\repos\Lab_Ciclos\bin\Debug\net8.0\Lab_Ciclos.dll
+C:\Users\ronyj\source\repos\Lab_Ciclos\bin\Debug\net8.0\Lab_Ciclos.pdb
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.dll
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\refint\Lab_Ciclos.dll
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.pdb
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\Lab_Ciclos.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\Lab_Ciclos\obj\Debug\net8.0\ref\Lab_Ciclos.dll
