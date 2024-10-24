@@ -1,0 +1,14 @@
+C:\Users\ronyj\source\repos\Objetos_clases\bin\Debug\net8.0\Objetos_clases.exe
+C:\Users\ronyj\source\repos\Objetos_clases\bin\Debug\net8.0\Objetos_clases.deps.json
+C:\Users\ronyj\source\repos\Objetos_clases\bin\Debug\net8.0\Objetos_clases.runtimeconfig.json
+C:\Users\ronyj\source\repos\Objetos_clases\bin\Debug\net8.0\Objetos_clases.dll
+C:\Users\ronyj\source\repos\Objetos_clases\bin\Debug\net8.0\Objetos_clases.pdb
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.dll
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\refint\Objetos_clases.dll
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.pdb
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\Objetos_clases.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\Objetos_clases\obj\Debug\net8.0\ref\Objetos_clases.dll
