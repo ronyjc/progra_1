@@ -1,0 +1,14 @@
+C:\Users\ronyj\source\repos\ciclos_enC#\bin\Debug\net8.0\ciclos_enC#.exe
+C:\Users\ronyj\source\repos\ciclos_enC#\bin\Debug\net8.0\ciclos_enC#.deps.json
+C:\Users\ronyj\source\repos\ciclos_enC#\bin\Debug\net8.0\ciclos_enC#.runtimeconfig.json
+C:\Users\ronyj\source\repos\ciclos_enC#\bin\Debug\net8.0\ciclos_enC#.dll
+C:\Users\ronyj\source\repos\ciclos_enC#\bin\Debug\net8.0\ciclos_enC#.pdb
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.dll
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\refint\ciclos_enC#.dll
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.pdb
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ciclos_enC#.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\ciclos_enC#\obj\Debug\net8.0\ref\ciclos_enC#.dll
